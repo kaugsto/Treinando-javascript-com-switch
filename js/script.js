@@ -1,6 +1,6 @@
 function hoje(){
 
-
+    //Essa função new Date é pertinente do javascript
     const tempo = new Date();
 
     var dia = tempo.getDate();
